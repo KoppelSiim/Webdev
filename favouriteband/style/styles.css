@@ -1,0 +1,7 @@
+head,body{
+    min-height: 100vh;
+    min-width: 100vw;
+}
+.main-nav ul{
+list-style: none;
+}
